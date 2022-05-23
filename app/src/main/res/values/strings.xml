@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TaxiBooking</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
